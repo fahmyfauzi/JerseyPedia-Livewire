@@ -7,11 +7,11 @@ php version : 7.1.3
 localhost:8000/
 
 -----------
-TUTORIAL LIVEWIRE JERSEY PEDIA
+<h2> TUTORIAL LIVEWIRE JERSEY PEDIA </h2>
 ----------
  
-composer install /composer update
-cp .env.example .env
-php artisan key:generate
-php artisan migrate --seed
-php artisan serve
+<p>composer install /composer update</p>
+<p>cp .env.example .env</p>
+<p>php artisan key:generate</p>
+<p>php artisan migrate --seed</p>
+<p>php artisan serve</p>
